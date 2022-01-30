@@ -1,0 +1,123 @@
+/* CSS Document */
+body
+{
+	background:url(image/background.png);
+	 
+}
+#container
+{
+	width:100%;
+	padding-left:10%;
+	padding-right:10%;
+}
+#logincontainer
+{
+	width:100%;
+	padding-left:0%;
+	padding-right:0%;
+}
+.logincontent
+{
+	margin-top:15%;
+	
+}
+.loginfooter
+{
+	margin-left:0%;
+	color:#006;
+}
+.form_tfield
+{
+	font-weight:NORMAL; FONT-SIZE:12PX; COLOR:#000000;BORDER-TOP-STYLE: groove; FONT-STYLE: normal; FONT-FAMILY: verdana; BORDER-RIGHT-STYLE: ridge; BORDER-LEFT-STYLE: groove; BACKGROUND-COLOR: #FFFFFF; BORDER-BOTTOM-STYLE: ridge; width:250px;
+}
+.form_but
+{
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #FFFFFF; BORDER-TOP-STYLE: groove; FONT-STYLE: normal; FONT-FAMILY: verdana; BORDER-RIGHT-STYLE: ridge; BORDER-LEFT-STYLE: groove; BACKGROUND-COLOR: #330033; BORDER-BOTTOM-STYLE: ridge; width:100px;
+}
+.form_but2
+{
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #000000; BORDER-TOP-STYLE: groove; FONT-STYLE: normal; FONT-FAMILY: verdana; BORDER-RIGHT-STYLE: ridge; BORDER-LEFT-STYLE: groove; BACKGROUND-COLOR: #FFFFCC; BORDER-BOTTOM-STYLE: ridge; width:90px;
+}
+.style3
+{
+	font-size:14px;
+	color: #660066;
+}
+.style5
+{
+	color: #FFFF00;
+	text-decoration: none;
+	text-transform:capitalize;
+	font-family:Verdana;
+	font-size:16px;
+}
+#container
+{
+	float:none;
+	height:auto;
+	width:1300px;
+}
+#page
+{
+	float:none;
+	background:url(image/pgbackground2.png);
+	width:696px;
+	position:absolute;
+	left: 35px;
+	top: 50px;
+	margin-bottom:300px;
+	padding-left:0;
+}
+#table
+{
+	margin-top:40px;
+	width:100%;
+}
+#instruct
+{
+	float:right;
+	padding:0;
+	width:131px;
+	position:absolute;
+	left: 563px;
+	top: 76px;
+}
+#footer
+{
+	float:none;
+	position:absolute;
+	left: -1px;
+	top: 780px;
+}
+#bottom
+{
+	float:none;
+	position:absolute;
+	left: 295px;
+	top: 1010px;
+}
+#bottom2
+{
+	float:none;
+	position:absolute;
+	left: 300px;
+	top: 778px;
+}
+#display
+{
+	float:none;
+	background:url(image/pgbackground2.png);
+	width:700px;
+	position:absolute;
+	left: 305px;
+	top: 155px;
+	margin-bottom:300px;
+}
+#bottom3
+{
+	float:none;
+	position:absolute;
+	left: 300px;
+	top: 860px;
+}
+@media all and screen

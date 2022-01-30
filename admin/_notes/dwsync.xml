@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="index.php" server="C:/xampp/htdocs/myexam/" local="131462720504235048" remote="131462720500000000" />
+<file name="questioninsert.php" server="C:/xampp/htdocs/myexam/" local="131481726729705673" remote="131481726720000000" />
+<file name="questionpage.php" server="C:/xampp/htdocs/myexam/" local="131481728602013912" remote="131481728600000000" />
+<file name="questiontable.php" server="C:/xampp/htdocs/myexam/" local="131463516582339165" remote="131463516580000000" />
+<file name="reg.php" server="C:/xampp/htdocs/myexam/" local="131479729422555863" remote="131479729420000000" />
+<file name="reginsert.php" server="C:/xampp/htdocs/myexam/" local="131479772243994645" remote="131479772240000000" />
+<file name="Registrationtable.php" server="C:/xampp/htdocs/myexam/" local="131463516589604005" remote="131463516580000000" />
+<file name="examadmin.php" server="C:/xampp/htdocs/myexam/" local="131479047797262951" remote="131479047790000000" />
+<file name="datainser.php" server="C:/xampp/htdocs/myexam/" local="131462718387729509" remote="131462718380000000" />
+<file name="adloginscript.php" server="C:/xampp/htdocs/myexam/" local="131463516550152738" remote="131463516550000000" />
+<file name="logout.php" server="C:/xampp/htdocs/myexam/" local="131463258873097540" remote="131463258870000000" />
+<file name="viewcand.php" server="C:/xampp/htdocs/myexam/" local="131502078682658795" remote="131502078680000000" />
+<file name="viewquest.php" server="C:/xampp/htdocs/myexam/" local="131481691558218890" remote="131481691550000000" />
+<file name="questedit.php" server="C:/xampp/htdocs/myexam/" local="131481691531301322" remote="131481691530000000" />
+<file name="editquestion.php" server="C:/xampp/htdocs/myexam/" local="131481691423588162" remote="131481691420000000" />
+<file name="adloginscript.php" server="C:/xampp/htdocs/smartexam/" local="131741568547498125" remote="131741568540000000" />
+<file name="datainser.php" server="C:/xampp/htdocs/smartexam/" local="131462718387729509" remote="131462718380000000" />
+<file name="editquestion.php" server="C:/xampp/htdocs/smartexam/" local="131741541458905509" remote="131741541450000000" />
+<file name="examadmin.php" server="C:/xampp/htdocs/smartexam/" local="131741581519694428" remote="131741581510000000" />
+<file name="index.php" server="C:/xampp/htdocs/smartexam/" local="131741558893532174" remote="131741558890000000" />
+<file name="logout.php" server="C:/xampp/htdocs/smartexam/" local="131463258873097540" remote="131463258870000000" />
+<file name="questedit.php" server="C:/xampp/htdocs/smartexam/" local="131741695369835775" remote="131741695360000000" />
+<file name="questioninsert.php" server="C:/xampp/htdocs/smartexam/" local="131740919533569490" remote="131740919530000000" />
+<file name="questionpage.php" server="C:/xampp/htdocs/smartexam/" local="131741693841486900" remote="131741693840000000" />
+<file name="questiontable.php" server="C:/xampp/htdocs/smartexam/" local="131463516582339165" remote="131463516580000000" />
+<file name="reg.php" server="C:/xampp/htdocs/smartexam/" local="131741581538004608" remote="131741581530000000" />
+<file name="reginsert.php" server="C:/xampp/htdocs/smartexam/" local="131741451778156832" remote="131741451770000000" />
+<file name="Registrationtable.php" server="C:/xampp/htdocs/smartexam/" local="131463516589604005" remote="131463516580000000" />
+<file name="viewcand.php" server="C:/xampp/htdocs/smartexam/" local="131741687005060814" remote="131741687000000000" />
+<file name="viewquest.php" server="C:/xampp/htdocs/smartexam/" local="131741683613537068" remote="131741683610000000" />
+<file name="createcat.php" server="C:/xampp/htdocs/smartexam/" local="131741581514947388" remote="131741581510000000" />
+<file name="catinsert.php" server="C:/xampp/htdocs/smartexam/" local="131741443070677561" remote="131741443070000000" />
+<file name="uptodate.php" server="C:/xampp/htdocs/smartexam/" local="131741558256834708" remote="131741558250000000" />
+<file name="changepwd.php" server="C:/xampp/htdocs/smartexam/" local="131741583601048422" remote="131741583600000000" />
+<file name="passchangescript.php" server="C:/xampp/htdocs/smartexam/" local="131741578376089026" remote="131741578370000000" />
+<file name="deletescript.php" server="C:/xampp/htdocs/smartexam/" local="131741490681411486" remote="131741490680000000" />
+<file name="deletecandidate.php" server="C:/xampp/htdocs/smartexam/" local="131741499321679054" remote="131741499320000000" />
+<file name="candedit.php" server="C:/xampp/htdocs/smartexam/" local="131741697913754178" remote="131741697910000000" />
+<file name="editcandidate.php" server="C:/xampp/htdocs/smartexam/" local="131741554590066951" remote="131741554590000000" />
+<file name="printresult.php" server="C:/xampp/htdocs/smartexam/" local="131741669265591800" remote="131741669260000000" />
+<file name="print.php" server="C:/xampp/htdocs/smartexam/" local="131741678782151573" remote="131741678780000000" />
+<file name="print.php" server="C:/xampp/htdocs/smartexam" local="131741608029834440" remote="131741608020000000" />
+<file name="printresult.php" server="C:/xampp/htdocs/smartexam" local="131741597005010233" remote="131741597000000000" />
+</dwsync>
